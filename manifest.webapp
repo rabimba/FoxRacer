@@ -2,7 +2,7 @@
     "version"   :   1,
     "name": "Math Racer",
     "description": "Race using calculations.",
-    "launch_path": "/index.html",
+    "launch_path": "/FoxRacer/index.html",
     "developer": {
         "name": "Rabimba Karanjai",
         "url": "http://rabimba.com"
