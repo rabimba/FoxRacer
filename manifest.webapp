@@ -4,8 +4,8 @@
     "description": "Race using calculations.",
     "launch_path": "/FoxRacer/index.html",
     "icons": {
-	    "64": "/img/icon-64.png",
-	    "128": "/img/icon-128.png"
+	    "64": "/FoxRacer/img/icon-64.png",
+	    "128": "/FoxRacer/img/icon-128.png"
 	  },
     "developer": {
         "name": "Rabimba Karanjai",
