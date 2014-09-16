@@ -23,9 +23,11 @@ and open the template in the editor.
             .include("Sprites, Scenes, Input, 2D, Touch, UI")
             .setup({
                 width: 320,
-                height: 480                
-            }).touch();            
-        
+                height: 480,
+                disableMouseEvents: true                
+            }).touch();
+
+        // Q.setup({disableMouseEvents: true}); 
         //configuration for math operations
         Q.state.set({ operations_min: 0, operations_max: 10 });
         
