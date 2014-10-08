@@ -7,6 +7,9 @@
 	    "64": "/FoxRacer/img/icon-64.png",
 	    "128": "/FoxRacer/img/icon-128.png"
 	  },
+    "orientation": [ "portrait" ],
+    "chrome": { "navigation": true },
+    "fullscreen": "true",
     "developer": {
         "name": "Rabimba Karanjai",
         "url": "http://rabimba.com"
